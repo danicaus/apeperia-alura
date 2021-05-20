@@ -1,7 +1,7 @@
 .section-main {
     justify-content: center;
     padding: 10rem 1rem;
-    background-image: url("assets/img/header-background.png");
+    background-image: url("../assets/img/header-background.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-color: var(--color-black-second);
