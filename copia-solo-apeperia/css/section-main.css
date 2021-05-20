@@ -1,0 +1,27 @@
+.section-main {
+    justify-content: center;
+    padding: 10rem 1rem;
+    background-image: url("/copia-solo-apeperia/assets/img/header-background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: var(--color-black-second);
+    color: var(--color-white-first);
+    font-family: 'Roboto slab', serif;
+}
+
+.section-main h1 {
+    font-size: 4rem;
+    font-weight: 400;
+    text-align: center;
+    padding: 2rem 0;
+    margin: 0 auto;
+}
+
+.section-main h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.5rem;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 3rem 0;
+}
