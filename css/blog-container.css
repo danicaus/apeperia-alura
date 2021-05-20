@@ -1,0 +1,36 @@
+.blog-container {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+
+.blog-post {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    margin: 2rem auto;
+    width: 70%;
+    z-index: 0;
+}
+
+.blog-post h3 {
+    font-family: 'Roboto Slab', serif;
+    font-weight: bold;
+    font-size: 1.2rem;
+    line-height: 1.5rem;
+    margin: 1rem 0;
+}
+
+.blog-post h4 {
+    line-height: 1.5rem;
+}
+
+.blog-post h4 a {
+    font-weight: bold;
+    color: var(--color-red);
+}
+
+.blog-post.-blogInactive {
+    position: absolute;
+    z-index: -1;
+}

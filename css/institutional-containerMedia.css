@@ -1,0 +1,27 @@
+.institutional-containerLogos {
+    display: flex;
+    justify-content: center;
+}
+
+.institutional-containerMedia {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 3rem;
+}
+
+.section-institutional img {
+    padding: 0.5rem 1rem 1rem 1rem;
+}
+
+.section-institutional video {
+    width: 70%;
+    padding-bottom: 3rem;
+    border-radius: 8px;
+}
+
+.section-institutional iframe {
+    width: 70%;
+    height: 30rem;
+    border-radius: 8px;
+}
