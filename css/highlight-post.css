@@ -18,7 +18,7 @@
     width: 100%;
 }
 
-.highlight-post h3 {
+.highlight-post figcaption {
     font-size: 1.2em;
     font-weight: bold;
     margin: 1em 0 0 0;
